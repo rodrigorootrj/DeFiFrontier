@@ -37,4 +37,14 @@ On top of that, a **secondary market** for LDBCoin would naturally emerge. Fans 
 Do you want me to shape this more like a **pitch (eye-catching, persuasive)** or more like a **discussion post (neutral, asking for feedback)** for Reddit?
 
 ### Support Our Work
-https://github.com/rodrigorootrj/DeFiFrontier?tab=readme-ov-file#support-our-work
+
+If you find this project helpful and want to support its continued development, we welcome donations. Your contributions help us maintain the project, explore new features, and cover operational costs. Every bit helps!
+
+You can donate using the following addresses:
+
+* **BTC:** `bc1q2f73nt8z8dau94vy8nvkwhefcu87af8ptqyp8d`
+* **SOL:** `Grb6v8UFv5mao74MM9aBqYaLfuyH7QL2wUwaGd9kignJ`
+* **ETH:** `Grb6v8UFv5mao74MM9aBqYaLfuyH7QL2wUwaGd9kignJ`
+* **PayPal:** `donates.root@gmail.com`
+
+Thank you for your generosity!
