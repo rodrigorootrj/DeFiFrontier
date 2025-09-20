@@ -44,3 +44,18 @@ Your ideas are the fuel for this project! If you have a proposal or want to disc
 ---
 
 Join us on the frontier of decentralized finance. Let's build the future of DeFi together!
+---
+---
+
+### Support Our Work
+
+If you find this project helpful and want to support its continued development, we welcome donations. Your contributions help us maintain the project, explore new features, and cover operational costs. Every bit helps!
+
+You can donate using the following addresses:
+
+* **BTC:** `bc1q2f73nt8z8dau94vy8nvkwhefcu87af8ptqyp8d`
+* **SOL:** `Grb6v8UFv5mao74MM9aBqYaLfuyH7QL2wUwaGd9kignJ`
+* **ETH:** `Grb6v8UFv5mao74MM9aBqYaLfuyH7QL2wUwaGd9kignJ`
+* **PayPal:** `donates.root@gmail.com`
+
+Thank you for your generosity!
